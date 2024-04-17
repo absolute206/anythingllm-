@@ -9,7 +9,7 @@ def main():
     api_endpoint = "http://localhost:3001/api/v1/document/upload-link"
 
     # Authorization token
-    authorization_token = "Bearer RQ1VC5T-8R3MXP3-KNXRHRY-22VEPHC"
+    authorization_token = "Bearer RQ1VC5T-XXXXXXX-XXXXXXX-XXXXXXX"
 
     # Headers
     headers = {
