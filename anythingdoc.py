@@ -5,7 +5,7 @@ import sys
 url = 'http://localhost:3001/api/v1/documents'
 headers = {
     'accept': 'application/json',
-    'Authorization': 'Bearer RQ1VC5T-8R3MXP3-KNXRHRY-22VEPHC'
+    'Authorization': 'Bearer RQ1VC5T-XXXXXXX-XXXXXXX-XXXXXXX'
 }
 
 try:
