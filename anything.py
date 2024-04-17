@@ -8,7 +8,7 @@ def send_message(message):
     # Define the request headers
     headers = {
         'accept': 'application/json',
-        'Authorization': 'Bearer RQ1VC5T-8R3MXP3-KNXRHRY-22VEPHC',
+        'Authorization': 'Bearer RQ1VC5T-XXXXXXX-XXXXXXX-XXXXXXX',
         'Content-Type': 'application/json'
     }
 
