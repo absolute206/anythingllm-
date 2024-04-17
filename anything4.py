@@ -103,7 +103,7 @@ if __name__ == "__main__":
     website_url = input("Enter the website URL to scrape: ")
     
     # Provide the authentication token
-    auth_token = 'RQ1VC5T-8R3MXP3-KNXRHRY-22VEPHC'
+    auth_token = 'RQ1VC5T-XXXXXXX-XXXXXXX-XXXXXXX'
     
     # Call the upload_link function to upload the website URL
     if upload_link(website_url, auth_token):
